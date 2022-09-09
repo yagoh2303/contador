@@ -1,0 +1,39 @@
+body {
+    background-image:url(./img/bg.jpg);
+    color:#000;
+    width:100%;
+    height: auto;
+}
+
+h1 {
+    height: 2em;
+    font-size: 4em;
+    padding:0;
+}
+
+#contador {
+    text-align: center;
+    height: auto;
+    width:400px;
+    background-color: whitesmoke;
+    margin-left:36%;
+}
+
+button {
+    height: 2.5em;
+    width: 5em;
+    border: 2px solid whitesmoke;
+    color:#fff;
+}
+
+button:hover {
+    cursor:pointer;
+}
+
+.start {
+    background-color: green;
+}
+
+.stop {
+    background-color: red;
+}
